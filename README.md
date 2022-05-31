@@ -17,7 +17,7 @@ Repositório dedicado ao estudo da área de Banco de Dados: SQL (relacionais) e 
 
 <br>
 
-<h2 align="center">📌 SQL: linguagem</h2>
+<h2 align="center">🔑 SQL: linguagem</h2>
 
 <div align="center">
 
@@ -33,7 +33,7 @@ Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus espec
 - DTL (BEGIN, COMMIT, ROLLBACK) | *Data Transiction Language*
 
 ## **MySQL Workbench;**
-O MySQL Workbench é uma ferramenta que permite o desenho e gestão de base de dados. Com esta aplicativo pode criar diagramas EER, gerar scripts SQL, gestão de utilizadores, fazer consultas às bases de dados, backups, gestão de privilégios e criar funções. 
+O MySQL Workbench é uma ferramenta que permite o desenho e gestão de base de dados. Com este aplicativo pode criar diagramas EER, gerar scripts SQL, gestão de utilizadores, fazer consultas às bases de dados, backups, gestão de privilégios e criar funções. 
 
 <br>
 
