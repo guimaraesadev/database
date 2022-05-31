@@ -15,21 +15,6 @@ Repositório dedicado ao estudo da área de Banco de Dados: SQL (relacionais) e 
 
 </div>
 
-
-<h2 align="center">📦 SQL: relacionais</h2>
-
-
-## **MySQL Workbench;**
-O MySQL Workbench é uma ferramenta que permite o desenho e gestão de base de dados. Com esta aplicativo pode criar diagramas EER, gerar scripts SQL, gestão de utilizadores, fazer consultas às bases de dados, backups, gestão de privilégios e criar funções. 
-
-<br>
-
-<div align="center">
-
-<img src="https://www.alura.com.br/artigos/assets/conectando-workbench-mysql-linux/imagem1.png">
-
-</div>
-
 <br>
 
 <h2 align="center">📌 SQL: linguagem</h2>
@@ -40,6 +25,16 @@ O MySQL Workbench é uma ferramenta que permite o desenho e gestão de base de d
 
 </div>
 
+Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus especificos comandos;
+- DQL (SELECT) | *Data Query Language*
+- DML (INSERT, UPDATE, DELETE) | *Data Manipulation Language*
+- DDL (CREATE, ALTER, DROP) | *Data Definition Language*
+- DCL (GRANT, REVOKE) | *Data Control Language*
+- DTL (BEGIN, COMMIT, ROLLBACK) | *Data Transiction Language*
 
+## **MySQL Workbench;**
+O MySQL Workbench é uma ferramenta que permite o desenho e gestão de base de dados. Com esta aplicativo pode criar diagramas EER, gerar scripts SQL, gestão de utilizadores, fazer consultas às bases de dados, backups, gestão de privilégios e criar funções. 
+
+<br>
 
 
