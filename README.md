@@ -20,11 +20,13 @@ Repositório dedicado ao estudo da área de Banco de Dados: SQL (relacionais) e 
 <h2 align="center">🔑 SQL: linguagem</h2>
 
 Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus especificos comandos;
-- *Data Query Language:*  DQL (SELECT) 
-- *Data Manipulation Language:* DML (INSERT, UPDATE, DELETE) 
-- *Data Definition Language:* DDL (CREATE, ALTER, DROP) 
--  *Data Control Language:* DCL (GRANT, REVOKE)  
-- *Data Transiction Language:* DTL (BEGIN, COMMIT, ROLLBACK) 
+- *Data Query Language:*  DQL **(SELECT)** 
+- *Data Manipulation Language:* DML **(INSERT, UPDATE, DELETE)**
+- *Data Definition Language:* DDL **(CREATE, ALTER, DROP)**
+-  *Data Control Language:* DCL **(GRANT, REVOKE)**
+- *Data Transiction Language:* DTL **(BEGIN, COMMIT, ROLLBACK)**
+
+
 
 
 
