@@ -34,18 +34,4 @@ Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus espec
 
 
 
-## **MySQL Workbench;**
-O MySQL Workbench é uma ferramenta que permite o desenho e gestão de base de dados. Com este aplicativo pode criar diagramas EER, gerar scripts SQL, gestão de utilizadores, fazer consultas às bases de dados, backups, gestão de privilégios e criar funções. 
-
-
-
-<div>
-
-<img src="https://www.mysql.com/common/images/products/MySQL_Workbench_Visual_Design_Linux.gif">
-
-</div>
-
-
-<br>
-
 
