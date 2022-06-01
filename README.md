@@ -19,15 +19,9 @@ Repositório dedicado ao estudo da área de Banco de Dados: SQL (relacionais) e 
 
 <h2 align="center">🔑 SQL: linguagem</h2>
 
-<div align="center">
-
-<img src="https://lh3.googleusercontent.com/_bM7VcN7njuQmQxkaqhAFcCRJMYuprGNKitUB4IVszyex76lqfJwK1pl8VQiU2fQoQGz99hb_hRVxHo0ih-KvTcgql0I34L_I2XvYB40Vl3IwKsZqsPGfuOCKjgDBSfzyEDLvfZmihBTiSkWOzpzVNRKTmrxMY9SNT-Z1Ad_P8dfJD05AIyCSB1usmVp6WwrtS_dif7q8DzuuuAeFoYc2wj7tYsUi3Bo9JjHzvjMsMz07AGywjafvscsp1Bg029HkdaK8dhXpTy42AMF9Sbq6ucekSjYVH9L5yIm-7M8up98_4VC_CBXMqZuVQMwoy5hF1eDzHmGuTBCV2KmBKwTmqz7eqAtshcUuaxoG-FxZJZldGGt11olCcZkPFc4v6932uxueZ9dGb9gHjpGFr9qbhA8o2EhCy9WO8EuIq7A-NIWPHHqZfwWbXENktV47kHQU5zHVyqt6BEzxngDfLy6D09Ca8J87WmZv9mWYHWzrDlJVeAYl_IqWJjpUBGavjT1qDF79sU9Qz6WFYfVtr_YdfIBe96iaKuTVn3CHXD5j6jRp4DKMTgC5TuMpC2gw9hbmC3u4Tch1fyJSsCzz5cEGhhTh9KGJSGbNQmApZZGLK6xj2_Ug0DxUc6akF2u1pc6f_AZ5nnpALqAgzST8ExhjZUrP5YS22eE9sl68c8nojxSxGkW2QqZGi9DFQduT3mVtWMBrbd5kNlrp-nfZfcEjN5zeWMCX48eOYXhAqqbbiVzLKtRH30glqJ6VfdDLBM=w662-h377-no?authuser=0">
-
-</div>
-
 Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus especificos comandos;
-- DQL (SELECT) | *Data Query Language*
-- DML (INSERT, UPDATE, DELETE) | *Data Manipulation Language*
+- *Data Query Language*  DQL (SELECT) 
+- *Data Manipulation Language* DML (INSERT, UPDATE, DELETE) 
 - DDL (CREATE, ALTER, DROP) | *Data Definition Language*
 - DCL (GRANT, REVOKE) | *Data Control Language*
 - DTL (BEGIN, COMMIT, ROLLBACK) | *Data Transiction Language*
