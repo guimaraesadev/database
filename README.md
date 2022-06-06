@@ -90,7 +90,7 @@ Combinando 2 tabelas;
 
 <h2>🔃 SQL: joins </h2> <br>
 
-<img src="https://w7.pngwing.com/pngs/628/198/png-transparent-join-mysql-table-row-joins-furniture-text-logo.png">
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2019/11/joins-in-mysql-1.png">
 
 </div>
 
