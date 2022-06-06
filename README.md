@@ -29,6 +29,7 @@ Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus espec
 <h2 align="center"> 📈 SQL: comandos</h2>
 
 - **SELECT:** Seleciona os dados dos bancos de dados;
+- **INSERT INTO:** Insere dados na tabela;
 - **AS:** Para renomear uma coluna ou tabela; 
 - **FROM:** Especifica de qual tabela estamos puxando os dados;
 - **WHERE:** Filtrar a consulta para corresponder a uma condição; 
@@ -53,6 +54,9 @@ Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus espec
 - **MIN:** Retorna o valor **mínimo** da coluna;
 - **MAX:** Retorna o valor **máximo** da coluna;
 - **COUNT:** Contar o número de linhas;  
+
+🚩 para inserir DATAS em SQL usa-se a sintaxe em inglês: *yyyy-mm-dd*;
+🚩 exemplo: 2022-06-06;
 
 <h2 align="center">🔎 SQL: exemplos</h2>
 
@@ -85,6 +89,9 @@ Combinando 2 tabelas;
     SELECT * FROM Coluna_01 AS TB1
     LEFT JOIN Tabela_02 AS TB2 ON
     TB2.coluna_01 = TB1.coluna_01 =;
+
+
+🚩 sempre se finaliza o comando com ponto e vírgula ";"
 
 <div align="center">
 
