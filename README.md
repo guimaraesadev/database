@@ -15,7 +15,19 @@ Repositório dedicado ao estudo da área de Banco de Dados: SQL (relacionais) e 
 
 </div>
 
+<h2 align="center"> SQL ❌ NoSQL</h2>
+
+Uma das diferenças nos bancos de dados NoSQL é que toda a informação é agrupada e guardada no mesmo registro. Já no SQL você precisa ter o relacionamento entre várias tabelas para ter a informação, informação esta disposta no modelo entidade e relacionamento. <br>
+O SQL tem certa dificuldade em conciliar a demanda por escalabilidade. Quanto a escalabilidade do NoSQL, deve se levar em consideração a modelagem do sistema. Do que adianta termos um sistema super simples e querermos utilizar o NoSQL apenas pela escalabilidade? Todo o ganho de performance seria perdido quando rodássemos a aplicação. <br>
+Um ponto forte do SQL é quanto à consistência das informações. Já o NoSQL garante o último valor atualizado, isso se nenhuma atualização for realizada até o momento da consulta.
+
 <br>
+
+<div align="center">
+
+<img src="https://i0.wp.com/blog.couchbase.com/wp-content/uploads/2017/04/nosql-vs-sql-overview-1.png?w=900&ssl=1">
+
+</div>
 
 <h2 align="center"> 📊 SQL: divisão</h2>
 
@@ -55,7 +67,7 @@ Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus espec
 - **MAX:** Retorna o valor **máximo** da coluna;
 - **COUNT:** Contar o número de linhas;  
 
-🚩 para inserir DATAS em SQL usa-se a sintaxe em inglês: *yyyy-mm-dd*;
+🚩 para inserir DATAS em SQL usa-se a sintaxe em inglês: *yyyy-mm-dd*; <br>
 🚩 exemplo: 2022-06-06;
 
 <h2 align="center">🔎 SQL: exemplos</h2>
