@@ -109,7 +109,7 @@ Combinando 2 tabelas;
 
 <h2>🔃 SQL: joins </h2> <br>
 
-<img src="https://cdn.educba.com/academy/wp-content/uploads/2019/11/joins-in-mysql-1.png">
+<img src="https://miro.medium.com/max/1200/1*av8Om3HpG1MC7YTLKvyftg.png">
 
 </div>
 
