@@ -38,7 +38,7 @@ Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus espec
 - `IN`: Especifique vários valores ao usar WHERE; 
 - `IS NULL` Retorna apenas linhas com um valor *nulo*; 
 - `LIMIT` Retornar apenas das linhas retornadas; 
-`CASE` Valor de retorno em uma condição especificada; 
+- `CASE` Valor de retorno em uma condição especificada; 
 - `CREATE` Crie TABLE, DATABASE, INDEX ou VIEW;
 - `DROP` Exclua TABLE, DATABASE, INDEX ou VIEW;
 - `UPDATE` Incluir dados na tabela de atualização;
