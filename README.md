@@ -26,13 +26,13 @@ Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus espec
 
 <h2 align="center"> 📈 SQL: comandos</h2>
 
-- **SELECT:** Seleciona os dados dos bancos de dados;
-- **INSERT INTO:** Insere dados na tabela;
-- **AS:** Para renomear uma coluna ou tabela; 
-- **FROM:** Especifica de qual tabela estamos puxando os dados;
-- **WHERE:** Filtrar a consulta para corresponder a uma condição; 
-- **JOIN:** Combinar 2 linhas ou mais tabelas;
-- **AND:** Combinar condições em uma consulta 'E';
+- `**SELECT:**` Seleciona os dados dos bancos de dados;
+- `**INSERT INTO:**` Insere dados na tabela;
+- `**AS:**` Para renomear uma coluna ou tabela; 
+- `**FROM:**` Especifica de qual tabela estamos puxando os dados;
+- `**WHERE:**` Filtrar a consulta para corresponder a uma condição; 
+- `**JOIN:**` Combinar 2 linhas ou mais tabelas;
+- `**AND:**` Combinar condições em uma consulta 'E';
 - **OR:** Condição em uma consulta 'OU';
 - **LIKE:** Procurar padrões em uma coluna;
 - **IN:** Especifique vários valores ao usar WHERE; 
