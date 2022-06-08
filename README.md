@@ -1,6 +1,7 @@
 <h1 align="center">🗂️ database: SQL e NoSQL</h1>
 
-![0_LR8ZkHpzwTAZjBtI](https://user-images.githubusercontent.com/101408372/171047759-e4966e16-f8e5-4946-93ae-4a2434ff4321.png)
+![coversgithub](https://user-images.githubusercontent.com/101408372/172511079-02d429dc-0002-4d4e-879c-00a18e7083e1.gif)
+
 
 ## **Sobre;**
 Repositório dedicado ao estudo da área de Banco de Dados: SQL (relacionais) e NoSQL (não relacionais). <br> SQL é a sigla para “Structured Query Language”, que significa, traduzindo para o português, “Linguagem de Consulta Estruturada”. Trata-se de uma linguagem de consulta a banco de dados relacionais. <br> NoSQL (Not Only SQL) é o termo utilizado para banco de dados não relacionais de alto desempenho onde, geralmente, o SQL não é utilizado como linguagem de consulta.
@@ -57,48 +58,6 @@ Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus espec
 🚩 para inserir DATAS em SQL usa-se a sintaxe em inglês: *yyyy-mm-dd*; <br>
 🚩 exemplo: 2022-06-06;
 
-<h2 align="center">🔎 SQL: exemplos</h2>
-
-Criar base de dados <br>
-
-    CREATE DATABASE MyDataBase; 
-
-Deletar base de dados; <br>
-
-    DROP TABLE MyDataBase;
-
-Atualizar uma tabela;
-
-    UPDATE MyDataBase;
-    SET Coluna_01 = 100;
-    WHERE Coluna_02 = 'AlgumValor';
-
-Selecionar linhas da tabela com filtro; 
-
-    SELECT * FROM Tabela WHERE
-    Coluna_01 > 100 MyDataBase; 
-
-Selecionar as primeiras 10 linhas;
-
-    SELECT Coluna_01; Coluna_02
-    FROM tabela LIMIT 10;
-
-Combinando 2 tabelas;
-
-    SELECT * FROM Coluna_01 AS TB1
-    LEFT JOIN Tabela_02 AS TB2 ON
-    TB2.coluna_01 = TB1.coluna_01 =;
-
-
-🚩 sempre se finaliza o comando com ponto e vírgula ";"
-
-<div align="center">
-
-<h2>🔃 SQL: joins </h2> <br>
-
-<img src="https://miro.medium.com/max/1200/1*av8Om3HpG1MC7YTLKvyftg.png">
-
-</div>
 
 
 
