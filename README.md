@@ -1,6 +1,7 @@
 <h1 align="center">🗂️ database: SQL e NoSQL</h1>
 
-![coversgithub](https://user-images.githubusercontent.com/101408372/172511079-02d429dc-0002-4d4e-879c-00a18e7083e1.gif)
+![coversgithub (1)](https://user-images.githubusercontent.com/101408372/172511472-729e7d3d-6d47-427e-be29-54b018205496.gif)
+
 
 
 ## **Sobre;**
