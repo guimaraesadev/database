@@ -1,8 +1,5 @@
-<h1 align="center">🗂️ database: SQL e NoSQL</h1>
 
 ![coversgithub (1)](https://user-images.githubusercontent.com/101408372/172511472-729e7d3d-6d47-427e-be29-54b018205496.gif)
-
-
 
 ## **Sobre;**
 Repositório dedicado ao estudo da área de Banco de Dados: SQL (relacionais) e NoSQL (não relacionais). <br> SQL é a sigla para “Structured Query Language”, que significa, traduzindo para o português, “Linguagem de Consulta Estruturada”. Trata-se de uma linguagem de consulta a banco de dados relacionais. <br> NoSQL (Not Only SQL) é o termo utilizado para banco de dados não relacionais de alto desempenho onde, geralmente, o SQL não é utilizado como linguagem de consulta.
@@ -56,8 +53,6 @@ Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus espec
 - **MAX:** Retorna o valor **máximo** da coluna;
 - **COUNT:** Contar o número de linhas;  
 
-🚩 para inserir DATAS em SQL usa-se a sintaxe em inglês: *yyyy-mm-dd*; <br>
-🚩 exemplo: 2022-06-06;
 
 
 
