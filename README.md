@@ -4,7 +4,7 @@
 ## **Sobre;**
 Repositório dedicado ao estudo da área de Banco de Dados: SQL (relacionais) e NoSQL (não relacionais). <br> SQL é a sigla para “Structured Query Language”, que significa, traduzindo para o português, “Linguagem de Consulta Estruturada”. Trata-se de uma linguagem de consulta a banco de dados relacionais. <br> NoSQL (Not Only SQL) é o termo utilizado para banco de dados não relacionais de alto desempenho onde, geralmente, o SQL não é utilizado como linguagem de consulta.
 
-## **Banco de dados utilizados;**
+<h3>Banco de dados utilizados;</h3>
 
 <br>
 
@@ -23,6 +23,8 @@ Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus espec
 - *Data Definition Language:* DDL 
 -  *Data Control Language:* DCL 
 - *Data Transiction Language:* DTL
+
+<br>
 
 <h2 align="center"> 📈 SQL: comandos</h2>
 
@@ -53,7 +55,20 @@ Na linguagem SQL temos a subdivisão em 5 grupos, e cada grupo possui seus espec
 - `MAX` Retorna o valor **máximo** da coluna;
 - `COUNT` Contar o número de linhas;  
 
+<br>
 
+<h3>Ferramentas;</h3>
+
+- [MySQL Workbench](https://www.mysql.com/products/workbench/);
+- [MySQL Server](https://www.mysql.com/);
+- [DBDiagram.io](https://dbdiagram.io/home);
+
+<h3>Referências;</h3>
+
+- [Bóston Treinamentos: Modelando Banco de Dados](https://www.youtube.com/watch?v=Q_KTYFgvu1s&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD);
+- [Modelagem DataBase: Iniciantes](https://www.youtube.com/watch?v=64ULpoaP8ZA&t=1s);
+- [Udemy: SQL e NoSQL](https://www.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/);
+- [Modelagem com MySQL Workbench](https://www.youtube.com/watch?v=wjDhtGhj9xg&t=870s);
 
 
 
