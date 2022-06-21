@@ -51,7 +51,6 @@ WHERE Departamento_Codigo NOT IN (10, 30) OR Departamento_Codigo IS NULL;
 SELECT * FROM Empregado 
 WHERE salário >= 250.00 AND <= 800.00 
 
--- maneira moderna/mais utilizável 
 
 
 
