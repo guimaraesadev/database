@@ -15,3 +15,4 @@ FROM empregado;
 
 SELECT DISTINCT departamento_codigo
 FROM empregado
+
